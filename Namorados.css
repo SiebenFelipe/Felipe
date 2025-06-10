@@ -1,0 +1,44 @@
+
+.vermelho{
+    background-color: #a60e0e;
+    height: 100%;
+    width: 50%;
+    display: flex; 
+    align-items: center;  
+}
+.branco{
+    background-color: white;
+    height: -1000px;
+    width: 50%;
+    display: flex; 
+    align-items: center;  
+}
+
+html,body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100%;
+}
+
+.imagem{
+  margin-left: 20%;
+}
+.imagem2{
+  margin-left: 84%;
+  margin-top: -135px;
+}
+p{
+    font-size: 25px;
+    margin-top: -625px;
+    margin-left: 53%;
+    text-align: center;
+    margin-right: 50px;
+    color: #a60e0e;
+}
+.botao{
+  color: #a60e0e;
+  margin-left: 97%;
+  margin-top: -515px;
+  background-color: transparent;
+}
